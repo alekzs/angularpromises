@@ -1,0 +1,12 @@
+{
+  "name": "AngularPromises",
+  "authors": [
+    "Aleksander Gregorka <aleksander.gregorka@bee7.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
